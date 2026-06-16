@@ -1,5 +1,5 @@
 # README
-**I made 3 Custom Cookie Cutters on ONSHAPE platform through my basic CAD knowledge ! there are 3 designs**
+**I made 3 Custom Cookie Cutters on ONSHAPE platform through my basic CAD knowledge ! there are 3 designs : **
 - Cat Face
 - Star
 - Heart
